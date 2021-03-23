@@ -4,6 +4,7 @@
    $data['fname']='Navdeep'; // demo FirstName
    
    $url = 'https://sendgrid.com/';
+
   
 		$user='##########';  //Your sendgrid username
 		$pass='##########'; //your sendgrid password
